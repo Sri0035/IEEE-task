@@ -1,4 +1,4 @@
-# IEEE-task
+# Lottery
 A blockchain based web application which conducts lottery.
 
 The task given to me was to create a simple web app which is integrated with metamask wallet.
